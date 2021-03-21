@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "multi-k8s-307107",
+  "private_key_id": "54125e9ca6d9a9efcb9ad4101c7d8c55177c57cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClKnTo9LqanuyY\nnbAl2COyEWbtX5SCVKdZEH5SI4Z7xYW2okRTDiFWI0vzQn9u4O+HW7JM6BhhTzRT\nxTA149LZK1FR6qxxgBtrxXHDL8+H/+5OsMRwPGy01g/FfWjGu7AiXkCxMsFAFlox\nQjcNqoqHaurvf4ysb9Kbe2m1aShpVSkXxmsBy0YTI0FFdg6BOqkgaZDDgI7Z7i4G\nk6TNw8MmehbvFkzkyUmI6fdTxjs0DF9vMbE0oSWAuWCw4WQsKy8ai9MDfT3dAWt9\nvGM4YfCzqNoi2Ja/yjnFldic04VJnE5Lgr0OJCy7zuipDXe4pqTrJRP9s0/xPvwu\nNZ5yOPm/AgMBAAECggEAB94cYJEb0cwP5Xs0I1wG40TB8ZJpKXDX4ehlDrZDgeIt\nqulS4N6eRuilMGAdYDjrIA2wUh/c3XHKQn1KUnQuRzWxiM8+yfn6FGmnhXk3D7mT\nbqsr8v67Mj1fgJ78iTmdO8iKmLDxagNGkOx1tpBw9d9pc+F7CtHEJ1o7IFmd2QU9\nDyoERGN8domTgBYnp5gNURXmyqh6AosQ9swFwidNdEOEVi/eh3gjU3e/3l3LDMBN\nZY+SpphbZj8S3Gt2BILJcTyHm3HeO7svIopY4VuXBIO1iFM8RoSHZARYamg388oX\nbww0wg0NOVdPB/e6CQgwvCUdJEk902Nn1+GEP0kNCQKBgQDO+0Loys+KoiAO1p+L\nLC7jbfvRgYxB8J8voP+DAZCjpIvJvfR99nzc8cJCFwHwWEFnCg3Yh5gde5DCDbCJ\nhlA4XK5WUwFrSoU/5sdueRs3r2mJu6uck4E3OneEZ9i/WlSltgCOn3lYbOYFGCpW\nqI/pohyb1pJY4/hCquBI2dMz2QKBgQDMSAYXLmErJDMf7Ywdzj5Hoh6YyxUdf48w\nGhUMzdkypls1AvmKbjWr417sUf4Hi0cm3+2xffOBhs7KRv4x6kaORI68ZOt7hI0g\n6S4a456nZ5pR6tLHfOyIGGrz4ySltPHdb/CL0A/EKZT7n/fjrQ0yhILq3qXJh40e\ndnFo79tTVwKBgEUou4ChU5uU9HVAzWppRvmDJGMqkDzwM6BsgTO68CNdtb+hEvKL\ny8jflvMSUPmH48KUH3A8Tl17jjDo9hXdpSxP+4ioj47UBZYGfJizKp7+o5r79CmL\nN9/GT20Ubd3yRtpf5+u/6YHcUTdejbcK95svKbQAjEHbWnacNfjhn6pxAoGBALqH\noZgVL4C3Iz+qJuEoa9H5BLs75OH0kgi4KDRy2jrXkDzNpJJ0o+l6Sji7fZvh32xt\n2JrTiT/imnw1avKlGxvZGgSImkVE+aDtir3ezgXKIi1eoGyrc0eqFC7yX4o3uQob\npqfjqiHSXkmM/ksUvxI70VcpSnTEo2UHffL14W0tAoGAGnCTwgP8RNuuGvxT2S0s\n3NJIZtfUoi/t9GoaqZg1dfT2PlsoGzL9CJEKaW54NE0FiAuVeN5Gv71b7dCbm1bP\nHPDBi6uQ+nEEHnP5NAaLcG/d2IpEIQ38eehp7ArGjpeoZ5sOT54kZ3teg+MrJMEL\nehE3Uaapfx900CXVTjiA3a8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-deployer@multi-k8s-307107.iam.gserviceaccount.com",
+  "client_id": "110522413583968652570",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-deployer%40multi-k8s-307107.iam.gserviceaccount.com"
+}
